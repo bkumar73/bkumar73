@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brajesh Kumar
-- 👀 I’m interested in Cloudnative Solution.
+- 👀 I’m interested in Cloudnative Usecase/solutions.
 - 🌱 I’m currently learning Gitops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
