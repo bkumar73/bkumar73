@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brajesh Kumar
 - 👀 I’m interested in Cloudnative Usecase/solutions.
-- 🌱 I’m currently learning Gitops
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Nvidia Ent AI
+- 💞️ I’m looking to collaborate on AI Platform Eng.
 - 📫 How to reach me ...
 
 <!---
